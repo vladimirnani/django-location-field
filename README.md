@@ -47,7 +47,7 @@ Installation
 
     `pip install django-location-field`
 
-2. Add `location_field.apps.DefaultConfig` to `INSTALLED_APPS` your **settings.py** file
+2. Add `location_field` to `INSTALLED_APPS` your **settings.py** file
 
 For example, PostGIS:
 
